@@ -1,0 +1,10 @@
+*{
+  box-sizing: border-box;
+  background-color: blanchedalmond;
+}
+body{
+  margin: 1em;
+}
+h1, p{
+  font-family: Helvetica, sans-serif;
+}
